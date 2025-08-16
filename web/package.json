@@ -1,0 +1,62 @@
+{
+  "name": "resq-lk-admin-dashboard",
+  "version": "1.0.0",
+  "description": "Admin Dashboard for ResQ-LK Emergency Response System",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-router-dom": "^6.20.1",
+    "axios": "^1.6.2",
+    "react-query": "^3.39.3",
+    "react-hook-form": "^7.48.2",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.12.0",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^4.2.1",
+    "recharts": "^2.8.0",
+    "date-fns": "^2.30.0",
+    "clsx": "^2.0.0",
+    "tailwindcss": "^3.3.6",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint src --ext .js,.jsx,.ts,.tsx --fix"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "proxy": "http://localhost:3000"
+}

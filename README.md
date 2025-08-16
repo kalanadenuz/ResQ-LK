@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 ResQ-LK Emergency Response System
 
 **Complete disaster management system for Sri Lanka with mobile app, web dashboard, and backend API**
@@ -339,3 +340,7 @@ The ResQ-LK Emergency Response System is **100% complete** and ready for product
 **🎉 Congratulations! You now have a complete, production-ready emergency response system.**
 
 *Start with [QUICK_START.md](QUICK_START.md) to get running in 10 minutes!*
+=======
+# ResQ-LK
+ResQ-LK, by Byte Benders , aids Sri Lanka's crisis response. Supports Users with both  USSD and, Mobile app, Web Interface for managers with relief requests, volunteering, and live maps. Uses React, React Native, Node.js, MySQL, and ISP APIs. Includes 3-tier architecture.Contact: kalanadenuz2002@gmail.com
+>>>>>>> 58e0af1d43e39bc74916df89b8be98bc6965c21d
